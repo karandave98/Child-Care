@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_vaccine_notification"
+            android:icon="@drawable/ic_vaccine"
+            android:title="Vaccine Notification" />
+        <item
+            android:id="@+id/nav_pregnant_woman"
+            android:icon="@drawable/ic_vaccine"
+            android:title="Pregnant Woman Information" />
+        <item
+            android:id="@+id/nav_babysitter"
+            android:icon="@drawable/ic_babysitter_vector"
+            android:title="Book a babysitter" />
+        <item
+            android:id="@+id/nav_babyproducts"
+            android:icon="@drawable/ic_shopping_cart_black_24dp"
+            android:title="Buy a product" />
+    </group>
+
+    <item android:title="">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share application" />
+            <item
+                android:id="@+id/nav_log_out"
+                android:icon="@drawable/ic_logout"
+                android:title="Sign Out" />
+        </menu>
+    </item>
+
+</menu>

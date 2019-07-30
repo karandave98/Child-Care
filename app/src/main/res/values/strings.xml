@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Child Care</string>
+    <string name="title_activity_login">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_confirm_password">Confirm Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="log_in">Log in</string>
+    <string name="Sign_up">Sign Up</string>
+    <string name="Sign_up_detail">Please fill in details to signup.</string>
+    <string name="prompt_first_name">First Name</string>
+    <string name="prompt_last_name">Last Name</string>
+    <string name="prompt_contact_number">Contact Number</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_babysitter_locator">Map</string>
+    <string name="vaccine_name">Vaccine Name</string>
+    <string name="vaccine_date">Vaccine Date:</string>
+    <string name="tests_information_for_pregnant_woman">Tests Information for pregnant Woman:</string>
+    <string name="vaccine_information_for_pregnant_woman">Vaccine Information for pregnant Woman:</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="submit_1_2">Submit</string>
+    <string name="line1">line1</string>
+    <string name="address_tv">Address</string>
+    <string name="move_pin">Move the map to drop the pin at your address.</string>
+    <string name="title_activity_try">Map</string>
+    <string name="title_activity_babysitter_main">BabysitterMain</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_view_request">Map</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_checked">Map</string>
+</resources>
